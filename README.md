@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @je12123
-- (nothing)
-- Oh yeah, I'm in CS50.
+- I'm in CS50x.
 - That's about it.
 
 <!---
