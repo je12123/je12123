@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @je12123
-- I'm in CS50x.
+- I finished CS50x.
 - That's about it.
 
 <!---
