@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @je12123
 - I finished CS50x.
+- I like Minecraft breezes.
 - That's about it.
 
 <!---
